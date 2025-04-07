@@ -5,6 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bengamraoussama" alt="bengamraoussama" /></a> </p>
 
+- 🔭 I’m currently working on **HopeNest**
+
+- 🌱 I’m currently learning **.NET**
+
+- 👯 I’m looking to collaborate on **JavaFx**
+
+- 🤝 I’m looking for help with **ML**
+
+- 💬 Ask me about **Angular, Spring Boot**
+
+- 📫 How to reach me **oussama.bengamra@esprit.tn**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/oussama-ben-gamra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oussama-ben-gamra" height="30" width="40" /></a>
@@ -18,4 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bengamraoussama&show_icons=true&locale=en" alt="bengamraoussama" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bengamraoussama&" alt="bengamraoussama" /></p>
-
