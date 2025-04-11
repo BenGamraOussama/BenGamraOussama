@@ -1,4 +1,4 @@
-modifier ce template <h1 align="center">Hi 👋, I'm Ben Gamra Oussama</h1>
+<h1 align="center">Hi 👋, I'm Ben Gamra Oussama</h1>
 <h3 align="center">A full-stack developer from Tunisia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bengamraoussama&label=Profile%20views&color=0e75b6&style=flat" alt="bengamraoussama" /> </p>
