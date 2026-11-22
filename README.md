@@ -2,18 +2,22 @@
 =====================================================================
   GITHUB PROFILE README — Oussama Ben Gamra
   ---------------------------------------------------------------
+  Already configured:
+    GitHub   → BenGamraOussama
+    LinkedIn → oussama-ben-gamra
+    Email    → oussama.bengamra@esprit.tn
+    Site     → oussamabengamra.netlify.app
+
   HOW TO CUSTOMIZE
-  1. Replace every occurrence of:  BenGamraOussama
-     with your real GitHub username (e.g. oussama-bengamra)
-  2. Replace every occurrence of:  oussama-ben-gamra
-     with your LinkedIn slug (e.g. oussama-ben-gamra)
-  3. Replace every occurrence of:  oussama.bengamra@esprit.tn
-     with your email address
-  4. For each project, replace:  PROJECT_REPO_1 ... PROJECT_REPO_5
-     with the repository path (e.g. oussama-bengamra/unidrive)
-  5. Colors: change "0d1117" (base) / "1f6feb" (blue) / "22d3ee" (cyan)
+  1. The five Featured Projects are PLANNED projects. When one goes
+     live, replace its "Coming soon" badge with a repository link:
+       <a href="https://github.com/BenGamraOussama/REPO">
+         <img src="https://img.shields.io/badge/Repository-View-1f6feb?style=flat-square&logo=github&logoColor=white" alt="" />
+       </a>
+  2. The "More Repositories" strip links to real repos. Add or remove
+     <td> cards there as your public work changes.
+  3. Colors: change "0d1117" (base) / "1f6feb" (blue) / "22d3ee" (cyan)
      / "8b5cf6" (purple) in the image URLs if you want a different tone.
-  Nothing else needs to be touched.
 =====================================================================
 -->
 
@@ -58,12 +62,17 @@
   <a href="mailto:oussama.bengamra@esprit.tn">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  &nbsp;
+  <a href="https://oussamabengamra.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio website" />
+  </a>
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Based%20in%20Tunisia-0d1117?style=flat-square&labelColor=1f6feb&label=Tunisia&logo=googlemaps&logoColor=white" alt="Based in Tunisia" />
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-0d1117?style=flat-square&labelColor=8b5cf6&logo=handshake&logoColor=white" alt="Open to collaboration" />
   <img src="https://img.shields.io/badge/Focus-Software%20Architecture-0d1117?style=flat-square&labelColor=22d3ee" alt="Focus: Software Architecture" />
+  <img src="https://img.shields.io/badge/Seeking-PFE%20Internship-0d1117?style=flat-square&labelColor=1f6feb" alt="Seeking a final-year internship" />
 </p>
 
 </div>
@@ -78,14 +87,14 @@
 
 I'm a **Software Engineering student** from Tunisia, driven by one question that keeps getting harder to answer: *how do you build software that stays correct, fast and maintainable as it grows?*
 
-That question took me from writing scripts to designing systems. Today my work sits at the intersection of **software architecture**, **artificial intelligence** and **backend engineering** — I like problems where the data has to be understood, the plane has to be reasoned about, and the platform has to hold up.
+That question took me from writing scripts to designing systems. Today my work sits at the intersection of **software architecture**, **artificial intelligence** and **backend engineering** — I like problems where the data has to be understood, the plan has to be reasoned about, and the platform has to hold up.
 
 **What I'm working on:**
 
 | Area | Focus |
 | :--- | :--- |
 | **Software Engineering & Architecture** | Modular design, layered architectures, SOLID principles, clean domain boundaries |
-| **Artificial Intelligence & Machine Learning** | Model training and evaluation, applied ML, responsible AI, LLM integration |
+| **Artificial Intelligence & Machine Learning** | Model training and evaluation, applied ML, RAG pipelines, responsible AI, LLM integration |
 | **Backend Systems & APIs** | REST API design, authentication, validation, caching, query optimisation |
 | **Distributed Systems & System Design** | Scalability trade-offs, message queues, consistency, fault tolerance |
 | **Continuous Learning & Open Source** | Reading what ships, contributing where I can, learning in public |
@@ -107,51 +116,61 @@ That question took me from writing scripts to designing systems. Today my work s
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,php,dart,cpp&theme=dark" alt="Python, Java, JavaScript, PHP, Dart, C++" />
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,php,dart,cpp&theme=dark" alt="Java, Python, TypeScript, JavaScript, PHP, Dart, C++" />
 </p>
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=symfony,fastapi,nodejs,express&theme=dark" alt="Symfony, FastAPI, Node.js" />
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,flask,nodejs,express,symfony&theme=dark" alt="Spring Boot, FastAPI, Flask, Node.js, Express, Symfony" />
 </p>
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,flutter,html,css&theme=dark" alt="React, Flutter, HTML, CSS" />
+  <img src="https://skillicons.dev/icons?i=angular,react,flutter,html,css&theme=dark" alt="Angular, React, Flutter, HTML, CSS" />
 </p>
 
 ### AI & Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,pandas,numpy,jupyter&theme=dark" alt="Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy" />
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,pandas,numpy,jupyter&theme=dark" alt="Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, Jupyter" />
+  <img src="https://img.shields.io/badge/LLM%20%2F%20RAG-0d1117?style=for-the-badge&labelColor=8b5cf6" alt="LLM and RAG" />
+  <img src="https://img.shields.io/badge/NLP-0d1117?style=for-the-badge&labelColor=1f6feb" alt="NLP" />
+  <img src="https://img.shields.io/badge/XGBoost%20%2F%20Optuna-0d1117?style=for-the-badge&labelColor=22d3ee" alt="XGBoost and Optuna" />
 </p>
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,mongodb&theme=dark" alt="PostgreSQL, MySQL, Supabase, MongoDB" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Supabase" />
 </p>
 
-### DevOps & Tooling
+### DevOps & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,jenkins,linux,nginx&theme=dark" alt="Docker, Git, GitHub Actions, Jenkins, Linux, Nginx" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,git,linux,nginx,aws&theme=dark" alt="Docker, Kubernetes, Jenkins, GitHub Actions, Git, Linux, Nginx, AWS" />
 </p>
 
-### Architecture & Concepts
+### Architecture & Security
 <p>
   <img src="https://img.shields.io/badge/REST%20APIs-0d1117?style=for-the-badge&labelColor=1f6feb" alt="REST APIs" />
   <img src="https://img.shields.io/badge/Microservices-0d1117?style=for-the-badge&labelColor=22d3ee" alt="Microservices" />
+  <img src="https://img.shields.io/badge/API%20Gateway-0d1117?style=for-the-badge&labelColor=1f6feb" alt="API Gateway" />
+  <img src="https://img.shields.io/badge/Eureka-0d1117?style=for-the-badge&labelColor=22d3ee" alt="Eureka service discovery" />
+  <img src="https://img.shields.io/badge/Keycloak-0d1117?style=for-the-badge&labelColor=8b5cf6" alt="Keycloak" />
   <img src="https://img.shields.io/badge/RabbitMQ-0d1117?style=for-the-badge&logo=rabbitmq&logoColor=FF6600&labelColor=0d1117" alt="RabbitMQ" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=0d1117" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/System%20Design-0d1117?style=for-the-badge&labelColor=8b5cf6" alt="System Design" />
   <img src="https://img.shields.io/badge/Event--Driven%20Design-0d1117?style=for-the-badge&labelColor=1f6feb" alt="Event-Driven Design" />
+  <img src="https://img.shields.io/badge/Hedera-0d1117?style=for-the-badge&labelColor=22d3ee" alt="Hedera" />
 </p>
 
 ---
 
 <!-- ================================================================
      4. FEATURED PROJECTS
+     These are planned projects. Swap the "Coming soon" badge for a
+     repository link once each one is published.
 ================================================================= -->
 
 ## <img src="https://api.iconify.design/solar:folder-with-files-bold.svg?color=%2322d3ee" width="22" height="22" alt="" /> &nbsp;Featured Projects
+
+<p><sub>Five systems I am designing and building — each one starts from a real problem and an architecture decision, not from a tutorial.</sub></p>
 
 <table>
   <tr>
@@ -165,7 +184,7 @@ That question took me from writing scripts to designing systems. Today my work s
       </p>
       <p>
         <img src="https://img.shields.io/badge/Status-In%20Development-8b5cf6?style=flat-square" alt="Status: In development" />
-        <a href="https://github.com/PROJECT_REPO_1"><img src="https://img.shields.io/badge/Repository-View-1f6feb?style=flat-square&logo=github&logoColor=white" alt="UniDrive repository" /></a>
+        <img src="https://img.shields.io/badge/Repository-Coming%20soon-0d1117?style=flat-square&labelColor=30363d" alt="Repository coming soon" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -178,7 +197,7 @@ That question took me from writing scripts to designing systems. Today my work s
       </p>
       <p>
         <img src="https://img.shields.io/badge/Status-Research%20Concept-22d3ee?style=flat-square" alt="Status: Research concept" />
-        <a href="https://github.com/PROJECT_REPO_2"><img src="https://img.shields.io/badge/Repository-View-1f6feb?style=flat-square&logo=github&logoColor=white" alt="NeuroWalk repository" /></a>
+        <img src="https://img.shields.io/badge/Repository-Coming%20soon-0d1117?style=flat-square&labelColor=30363d" alt="Repository coming soon" />
       </p>
     </td>
   </tr>
@@ -194,7 +213,7 @@ That question took me from writing scripts to designing systems. Today my work s
       </p>
       <p>
         <img src="https://img.shields.io/badge/Status-Active-1f6feb?style=flat-square" alt="Status: Active" />
-        <a href="https://github.com/PROJECT_REPO_3"><img src="https://img.shields.io/badge/Repository-View-1f6feb?style=flat-square&logo=github&logoColor=white" alt="Anomaly detection repository" /></a>
+        <a href="https://github.com/BenGamraOussama/IA_Classification"><img src="https://img.shields.io/badge/Related%20work-IA__Classification-0d1117?style=flat-square&labelColor=1f6feb&logo=github&logoColor=white" alt="Related repository: IA_Classification" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -207,7 +226,7 @@ That question took me from writing scripts to designing systems. Today my work s
       </p>
       <p>
         <img src="https://img.shields.io/badge/Status-Prototype-8b5cf6?style=flat-square" alt="Status: Prototype" />
-        <a href="https://github.com/PROJECT_REPO_4"><img src="https://img.shields.io/badge/Repository-View-1f6feb?style=flat-square&logo=github&logoColor=white" alt="AgroSentinel repository" /></a>
+        <img src="https://img.shields.io/badge/Repository-Coming%20soon-0d1117?style=flat-square&labelColor=30363d" alt="Repository coming soon" />
       </p>
     </td>
   </tr>
@@ -217,18 +236,94 @@ That question took me from writing scripts to designing systems. Today my work s
       <p>Architecture-first study of a national-scale digital payment and wallet platform: ledger design, transaction integrity, idempotent transfers, service decomposition and the trust boundary around money movement.</p>
       <p>
         <img src="https://img.shields.io/badge/Architecture-0d1117?style=flat-square&labelColor=8b5cf6" alt="Architecture" />
-        <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony" />
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
         <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       </p>
       <p>
         <img src="https://img.shields.io/badge/Status-Design%20Phase-22d3ee?style=flat-square" alt="Status: Design phase" />
-        <a href="https://github.com/PROJECT_REPO_5"><img src="https://img.shields.io/badge/Repository-View-1f6feb?style=flat-square&logo=github&logoColor=white" alt="Tunisia Digital Wallet repository" /></a>
+        <img src="https://img.shields.io/badge/Repository-Coming%20soon-0d1117?style=flat-square&labelColor=30363d" alt="Repository coming soon" />
       </p>
     </td>
   </tr>
 </table>
+
+---
+
+<!-- ================================================================
+     4b. MORE REPOSITORIES (real, public work)
+================================================================= -->
+
+## <img src="https://api.iconify.design/solar:code-square-bold.svg?color=%2322d3ee" width="22" height="22" alt="" /> &nbsp;More Repositories
+
+<p><sub>What is already public on my GitHub — coursework, experiments and full-stack builds.</sub></p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/BenGamraOussama/Student_Management">Student Management</a></h3>
+      <p>Student records application in Java, shipped with a full delivery pipeline: Jenkins and GitHub Actions for CI/CD, Docker for packaging and Kubernetes for orchestration.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/BenGamraOussama/Student_Management_front">Student Management — Front</a></h3>
+      <p>The front-end companion to the student management system, kept as a separate deployable so the UI can evolve independently of the API.</p>
+      <p>
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/BenGamraOussama/IA_Classification">IA Classification</a></h3>
+      <p>Machine learning classification work in Jupyter Notebook: data preparation, model comparison, hyper-parameter tuning and evaluation on real datasets.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/BenGamraOussama/Chatbot">Chatbot</a></h3>
+      <p>Conversational assistant experiments in Python — intent handling and response generation, used as a sandbox for applied NLP ideas.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/NLP-0d1117?style=flat-square&labelColor=8b5cf6" alt="NLP" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/BenGamraOussama/Symfony_PI_DEV">Symfony PI Dev</a></h3>
+      <p>Symfony web application built during the personal-integration project — MVC structure, server-rendered views and a relational database behind it.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/BenGamraOussama/PFE_ISET">PFE ISET</a></h3>
+      <p>Final-year project from my Bachelor's degree, built in JavaScript — the first application I took from specification to delivery.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Academic-0d1117?style=flat-square&labelColor=22d3ee" alt="Academic project" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <br/>
+  <a href="https://github.com/BenGamraOussama?tab=repositories">
+    <img src="https://img.shields.io/badge/Browse%20all%20repositories-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Browse all repositories" />
+  </a>
+</div>
 
 ---
 
@@ -298,7 +393,7 @@ That question took me from writing scripts to designing systems. Today my work s
     </td>
     <td width="33%" valign="top">
       <h4>Large Language Models</h4>
-      <p>Retrieval pipelines, prompt and context engineering, evaluation, and where LLMs genuinely beat classical ML.</p>
+      <p>Retrieval-augmented generation, prompt and context engineering, evaluation, and where LLMs genuinely beat classical ML.</p>
     </td>
     <td width="33%" valign="top">
       <h4>AI Engineering</h4>
@@ -312,7 +407,7 @@ That question took me from writing scripts to designing systems. Today my work s
     </td>
     <td width="33%" valign="top">
       <h4>Cloud &amp; Distributed Systems</h4>
-      <p>Container orchestration, messaging patterns, resilience, and observability as a first-class concern.</p>
+      <p>Kubernetes orchestration, messaging patterns, resilience, and observability as a first-class concern.</p>
     </td>
     <td width="33%" valign="top">
       <h4>Engineering Craft</h4>
@@ -335,7 +430,7 @@ That question took me from writing scripts to designing systems. Today my work s
   <tr>
     <td width="33%" valign="top">
       <h4>Short Term</h4>
-      <p>Ship systems I can defend end to end: real users, real constraints, real observability. Earn my place in serious engineering teams through internships and open-source work.</p>
+      <p>Ship systems I can defend end to end: real users, real constraints, real observability. Earn my place in serious engineering teams through a final-year internship and open-source work.</p>
     </td>
     <td width="33%" valign="top">
       <h4>Mid Term</h4>
