@@ -14,26 +14,23 @@
        <a href="https://github.com/BenGamraOussama/REPO">
          <img src="https://img.shields.io/badge/Repository-View-1f6feb?style=flat-square&logo=github&logoColor=white" alt="" />
        </a>
-  2. The "More Repositories" strip links to real repos. Add or remove
-     <td> cards there as your public work changes.
-  3. Colors: change "0d1117" (base) / "1f6feb" (blue) / "22d3ee" (cyan)
-     / "8b5cf6" (purple) in the image URLs if you want a different tone.
+  2. "More Repositories" links to real repos — edit those cards freely.
+  3. Banner animations: animation=twinkling / fadeIn / blinking / scaleIn
+  4. Colors: "0d1117" base / "1f6feb" blue / "22d3ee" cyan / "8b5cf6" purple
 =====================================================================
 -->
 
 <div align="center">
 
 <!-- ================================================================
-     1. HERO SECTION
+     1. HERO
 ================================================================= -->
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,55:111c2e,100:1f6feb&text=Oussama%20Ben%20Gamra&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Software%20Engineering%20Student%20%C2%B7%20Aspiring%20Software%20Architect&descAlignY=58&descSize=16&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1117,55:111c2e,100:1f6feb&text=Oussama%20Ben%20Gamra&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Software%20Engineering%20Student%20%C2%B7%20Aspiring%20Software%20Architect&descAlignY=57&descSize=16&animation=twinkling"
   alt="Oussama Ben Gamra — Software Engineering Student and Aspiring Software Architect"
   width="100%"
 />
-
-<br/>
 
 <h3>
   <a href="https://github.com/BenGamraOussama">
@@ -44,12 +41,8 @@
   </a>
 </h3>
 
-<p>
-  I design and build software that has to survive the real world —<br/>
-  clean architecture at the core, intelligent systems on top, and backends that stay fast under load.
-</p>
+**Clean architecture. Intelligent systems. Backends that hold under load.**
 
-<!-- SOCIAL LINKS -->
 <p>
   <a href="https://linkedin.com/in/oussama-ben-gamra">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -69,7 +62,7 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Based%20in%20Tunisia-0d1117?style=flat-square&labelColor=1f6feb&label=Tunisia&logo=googlemaps&logoColor=white" alt="Based in Tunisia" />
+  <img src="https://img.shields.io/badge/Tunisia-0d1117?style=flat-square&labelColor=1f6feb&logo=googlemaps&logoColor=white" alt="Based in Tunisia" />
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-0d1117?style=flat-square&labelColor=8b5cf6&logo=handshake&logoColor=white" alt="Open to collaboration" />
   <img src="https://img.shields.io/badge/Focus-Software%20Architecture-0d1117?style=flat-square&labelColor=22d3ee" alt="Focus: Software Architecture" />
   <img src="https://img.shields.io/badge/Seeking-PFE%20Internship-0d1117?style=flat-square&labelColor=1f6feb" alt="Seeking a final-year internship" />
@@ -77,36 +70,24 @@
 
 </div>
 
----
+<!-- animated divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=2&width=100%25&animation=blinking" alt="" width="100%" />
 
 <!-- ================================================================
-     2. ABOUT ME
+     2. ABOUT
 ================================================================= -->
 
-## <img src="https://api.iconify.design/solar:user-circle-bold.svg?color=%2322d3ee" width="22" height="22" alt="" /> &nbsp;About Me
+## <img src="https://api.iconify.design/solar:user-circle-bold.svg?color=%2322d3ee" width="22" height="22" alt="" /> &nbsp;About
 
-I'm a **Software Engineering student** from Tunisia, driven by one question that keeps getting harder to answer: *how do you build software that stays correct, fast and maintainable as it grows?*
+I build software that stays correct, fast and readable as it grows — **architecture first, intelligence on top**.
 
-That question took me from writing scripts to designing systems. Today my work sits at the intersection of **software architecture**, **artificial intelligence** and **backend engineering** — I like problems where the data has to be understood, the plan has to be reasoned about, and the platform has to hold up.
-
-**What I'm working on:**
-
-| Area | Focus |
-| :--- | :--- |
-| **Software Engineering & Architecture** | Modular design, layered architectures, SOLID principles, clean domain boundaries |
-| **Artificial Intelligence & Machine Learning** | Model training and evaluation, applied ML, RAG pipelines, responsible AI, LLM integration |
-| **Backend Systems & APIs** | REST API design, authentication, validation, caching, query optimisation |
-| **Distributed Systems & System Design** | Scalability trade-offs, message queues, consistency, fault tolerance |
-| **Continuous Learning & Open Source** | Reading what ships, contributing where I can, learning in public |
-
-**How I like to work**
-
-- Start from the problem, not from the framework.
-- Prefer a boring, documented design over a clever, fragile one.
-- Measure before optimising; test before refactoring.
-- Document decisions, because future me is a different developer.
-
----
+<p>
+  <img src="https://img.shields.io/badge/Architecture-0d1117?style=for-the-badge&labelColor=1f6feb" alt="Architecture" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-0d1117?style=for-the-badge&labelColor=22d3ee" alt="AI and Machine Learning" />
+  <img src="https://img.shields.io/badge/Backend%20%26%20APIs-0d1117?style=for-the-badge&labelColor=8b5cf6" alt="Backend and APIs" />
+  <img src="https://img.shields.io/badge/Distributed%20Systems-0d1117?style=for-the-badge&labelColor=1f6feb" alt="Distributed systems" />
+  <img src="https://img.shields.io/badge/Open%20Source-0d1117?style=for-the-badge&labelColor=22d3ee" alt="Open source" />
+</p>
 
 <!-- ================================================================
      3. TECH STACK
@@ -163,127 +144,96 @@ That question took me from writing scripts to designing systems. Today my work s
 ---
 
 <!-- ================================================================
-     4. FEATURED PROJECTS
-     These are planned projects. Swap the "Coming soon" badge for a
-     repository link once each one is published.
+     4. FEATURED PROJECTS — planned, repos coming soon
 ================================================================= -->
 
-## <img src="https://api.iconify.design/solar:folder-with-files-bold.svg?color=%2322d3ee" width="22" height="22" alt="" /> &nbsp;Featured Projects
-
-<p><sub>Five systems I am designing and building — each one starts from a real problem and an architecture decision, not from a tutorial.</sub></p>
+## <img src="https://api.iconify.design/solar:folder-with-files-bold.svg?color=%2322d3ee" width="22" height="22" alt="" /> &nbsp;Building Next
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>UniDrive</h3>
-      <p>Student carpooling mobile application connecting university commuters. Built around a real authentication flow, trip matching logic and a live shared-state backend.</p>
+      <p>Carpooling for university commuters — Flutter, Supabase, live shared state.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
         <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-In%20Development-8b5cf6?style=flat-square" alt="Status: In development" />
-        <img src="https://img.shields.io/badge/Repository-Coming%20soon-0d1117?style=flat-square&labelColor=30363d" alt="Repository coming soon" />
+        <img src="https://img.shields.io/badge/In%20Development-8b5cf6?style=flat-square" alt="In development" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>NeuroWalk</h3>
-      <p>Assistive mobility research project exploring intelligent technologies to support walking rehabilitation — sensor interpretation, feedback loops and progressive difficulty modelling.</p>
+      <p>Walking-rehab support — sensors in, feedback loops out.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-        <img src="https://img.shields.io/badge/Research-0d1117?style=flat-square&labelColor=22d3ee" alt="Research" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Research%20Concept-22d3ee?style=flat-square" alt="Status: Research concept" />
-        <img src="https://img.shields.io/badge/Repository-Coming%20soon-0d1117?style=flat-square&labelColor=30363d" alt="Repository coming soon" />
+        <img src="https://img.shields.io/badge/Research-22d3ee?style=flat-square" alt="Research concept" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>AI Automotive Anomaly Detection</h3>
-      <p>Machine learning system that detects anomalies in automotive CAN bus data. Feature engineering on time-series frames, model comparison and threshold tuning on imbalanced signals.</p>
+      <p>CAN-bus anomaly detection on imbalanced signal data.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Active-1f6feb?style=flat-square" alt="Status: Active" />
         <a href="https://github.com/BenGamraOussama/IA_Classification"><img src="https://img.shields.io/badge/Related%20work-IA__Classification-0d1117?style=flat-square&labelColor=1f6feb&logo=github&logoColor=white" alt="Related repository: IA_Classification" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>AgroSentinel</h3>
-      <p>AI-powered agricultural monitoring concept: anomaly detection over field readings with an autonomous decision-support layer that recommends action instead of just reporting numbers.</p>
+      <p>Field readings in, recommended action out — not another dashboard.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Prototype-8b5cf6?style=flat-square" alt="Status: Prototype" />
-        <img src="https://img.shields.io/badge/Repository-Coming%20soon-0d1117?style=flat-square&labelColor=30363d" alt="Repository coming soon" />
+        <img src="https://img.shields.io/badge/Prototype-8b5cf6?style=flat-square" alt="Prototype" />
       </p>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
       <h3>Tunisia Digital Wallet</h3>
-      <p>Architecture-first study of a national-scale digital payment and wallet platform: ledger design, transaction integrity, idempotent transfers, service decomposition and the trust boundary around money movement.</p>
+      <p>Ledger design, idempotent transfers, service decomposition — money as a trust boundary.</p>
       <p>
-        <img src="https://img.shields.io/badge/Architecture-0d1117?style=flat-square&labelColor=8b5cf6" alt="Architecture" />
         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
         <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Design%20Phase-22d3ee?style=flat-square" alt="Status: Design phase" />
-        <img src="https://img.shields.io/badge/Repository-Coming%20soon-0d1117?style=flat-square&labelColor=30363d" alt="Repository coming soon" />
+        <img src="https://img.shields.io/badge/Design%20Phase-22d3ee?style=flat-square" alt="Design phase" />
       </p>
     </td>
   </tr>
 </table>
 
----
-
 <!-- ================================================================
-     4b. MORE REPOSITORIES (real, public work)
+     4b. MORE REPOSITORIES — real public work
 ================================================================= -->
 
-## <img src="https://api.iconify.design/solar:code-square-bold.svg?color=%2322d3ee" width="22" height="22" alt="" /> &nbsp;More Repositories
-
-<p><sub>What is already public on my GitHub — coursework, experiments and full-stack builds.</sub></p>
+## <img src="https://api.iconify.design/solar:code-square-bold.svg?color=%2322d3ee" width="22" height="22" alt="" /> &nbsp;Shipped
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/BenGamraOussama/Student_Management">Student Management</a></h3>
-      <p>Student records application in Java, shipped with a full delivery pipeline: Jenkins and GitHub Actions for CI/CD, Docker for packaging and Kubernetes for orchestration.</p>
+      <p>Java app with a Jenkins + Docker + Kubernetes pipeline.</p>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-        <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
         <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/BenGamraOussama/Student_Management_front">Student Management — Front</a></h3>
-      <p>The front-end companion to the student management system, kept as a separate deployable so the UI can evolve independently of the API.</p>
+      <p>Its separately deployable front-end.</p>
       <p>
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/BenGamraOussama/IA_Classification">IA Classification</a></h3>
-      <p>Machine learning classification work in Jupyter Notebook: data preparation, model comparison, hyper-parameter tuning and evaluation on real datasets.</p>
+      <p>Notebooks on classification — prep, compare, evaluate.</p>
       <p>
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
         <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
@@ -291,17 +241,17 @@ That question took me from writing scripts to designing systems. Today my work s
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/BenGamraOussama/Chatbot">Chatbot</a></h3>
-      <p>Conversational assistant experiments in Python — intent handling and response generation, used as a sandbox for applied NLP ideas.</p>
+      <p>Conversational assistant experiments in Python.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/NLP-0d1117?style=flat-square&labelColor=8b5cf6" alt="NLP" />
+        <img src="https://img.shields.io/badge/NLP-8b5cf6?style=flat-square" alt="NLP" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/BenGamraOussama/Symfony_PI_DEV">Symfony PI Dev</a></h3>
-      <p>Symfony web application built during the personal-integration project — MVC structure, server-rendered views and a relational database behind it.</p>
+      <p>Symfony MVC app over a relational database.</p>
       <p>
         <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony" />
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
@@ -309,29 +259,28 @@ That question took me from writing scripts to designing systems. Today my work s
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/BenGamraOussama/PFE_ISET">PFE ISET</a></h3>
-      <p>Final-year project from my Bachelor's degree, built in JavaScript — the first application I took from specification to delivery.</p>
+      <p>Bachelor's final project, built in JavaScript.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Academic-0d1117?style=flat-square&labelColor=22d3ee" alt="Academic project" />
+        <img src="https://img.shields.io/badge/Academic-22d3ee?style=flat-square" alt="Academic project" />
       </p>
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <br/>
   <a href="https://github.com/BenGamraOussama?tab=repositories">
     <img src="https://img.shields.io/badge/Browse%20all%20repositories-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Browse all repositories" />
   </a>
 </div>
 
----
-
 <!-- ================================================================
-     5. GITHUB STATISTICS
+     5. STATS
 ================================================================= -->
 
-## <img src="https://api.iconify.design/solar:chart-bold.svg?color=%2322d3ee" width="22" height="22" alt="" /> &nbsp;GitHub Statistics
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8b5cf6,100:0d1117&height=2&width=100%25&animation=blinking" alt="" width="100%" />
+
+## <img src="https://api.iconify.design/solar:chart-bold.svg?color=%2322d3ee" width="22" height="22" alt="" /> &nbsp;Numbers
 
 <div align="center">
 
@@ -377,83 +326,61 @@ That question took me from writing scripts to designing systems. Today my work s
 
 </div>
 
----
-
 <!-- ================================================================
-     6. CURRENTLY LEARNING
+     6. LEARNING
 ================================================================= -->
 
-## <img src="https://api.iconify.design/solar:book-bookmark-bold.svg?color=%2322d3ee" width="22" height="22" alt="" /> &nbsp;Currently Learning
+## <img src="https://api.iconify.design/solar:book-bookmark-bold.svg?color=%2322d3ee" width="22" height="22" alt="" /> &nbsp;Learning
+
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=700&color=8B5CF6&center=true&vCenter=true&width=560&height=30&lines=Advanced+software+architecture;Large+language+models+%26+RAG;AI+engineering;System+design;Cloud+%26+distributed+systems"
+    alt="Currently learning: advanced architecture, LLMs and RAG, AI engineering, system design, cloud and distributed systems"
+  />
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Architecture-0d1117?style=flat-square&labelColor=1f6feb" alt="Advanced architecture" />
+  <img src="https://img.shields.io/badge/LLMs%20%26%20RAG-0d1117?style=flat-square&labelColor=22d3ee" alt="LLMs and RAG" />
+  <img src="https://img.shields.io/badge/AI%20Engineering-0d1117?style=flat-square&labelColor=8b5cf6" alt="AI engineering" />
+  <img src="https://img.shields.io/badge/System%20Design-0d1117?style=flat-square&labelColor=1f6feb" alt="System design" />
+  <img src="https://img.shields.io/badge/Distributed%20Systems-0d1117?style=flat-square&labelColor=22d3ee" alt="Distributed systems" />
+</p>
+
+<!-- ================================================================
+     7. GOALS
+================================================================= -->
+
+## <img src="https://api.iconify.design/solar:target-bold.svg?color=%2322d3ee" width="22" height="22" alt="" /> &nbsp;Goals
+
+> **Become a Software Architect — and build AI-native products on architecture that lasts.**
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4>Advanced Software Architecture</h4>
-      <p>Hexagonal boundaries, domain-driven decomposition, and how to keep a codebase legible three years after release.</p>
+      <h4>Now</h4>
+      <p>Ship systems I can defend end to end. Land a PFE internship.</p>
     </td>
     <td width="33%" valign="top">
-      <h4>Large Language Models</h4>
-      <p>Retrieval-augmented generation, prompt and context engineering, evaluation, and where LLMs genuinely beat classical ML.</p>
+      <h4>Next</h4>
+      <p>Own service boundaries, data flows and platform contracts.</p>
     </td>
     <td width="33%" valign="top">
-      <h4>AI Engineering</h4>
-      <p>Taking a model from a notebook to a monitored, versioned service with a real feedback loop.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>System Design</h4>
-      <p>Caching layers, partitioning, consistency trade-offs and capacity estimation on real traffic shapes.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h4>Cloud &amp; Distributed Systems</h4>
-      <p>Kubernetes orchestration, messaging patterns, resilience, and observability as a first-class concern.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h4>Engineering Craft</h4>
-      <p>Test strategy, architecture decision records, and code review as a design tool rather than a gate.</p>
+      <h4>Later</h4>
+      <p>Lead engineering for AI-native products, from the architecture up.</p>
     </td>
   </tr>
 </table>
-
----
-
-<!-- ================================================================
-     7. PROFESSIONAL GOALS
-================================================================= -->
-
-## <img src="https://api.iconify.design/solar:target-bold.svg?color=%2322d3ee" width="22" height="22" alt="" /> &nbsp;Professional Goals
-
-> **Become a Software Architect — and build software products where engineering rigour and intelligence are not two separate disciplines.**
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>Short Term</h4>
-      <p>Ship systems I can defend end to end: real users, real constraints, real observability. Earn my place in serious engineering teams through a final-year internship and open-source work.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h4>Mid Term</h4>
-      <p>Move into architecture ownership — designing service boundaries, data flows and platform contracts, while keeping a deep, practical foothold in backend and ML engineering.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h4>Long Term</h4>
-      <p>Found or lead engineering for AI-native products built on solid architecture — intelligent, scalable, and usable by people who never think about the system underneath.</p>
-    </td>
-  </tr>
-</table>
-
----
 
 <!-- ================================================================
      8. CONTACT
 ================================================================= -->
 
-## <img src="https://api.iconify.design/solar:letter-bold.svg?color=%2322d3ee" width="22" height="22" alt="" /> &nbsp;Let's Connect
+## <img src="https://api.iconify.design/solar:letter-bold.svg?color=%2322d3ee" width="22" height="22" alt="" /> &nbsp;Contact
 
 <div align="center">
 
-<p>Open to internships, research collaborations, and engineering conversations about architecture, AI or backend systems.</p>
+**Open to internships, research and good architecture conversations.**
 
 <p>
   <a href="https://linkedin.com/in/oussama-ben-gamra">
@@ -469,13 +396,7 @@ That question took me from writing scripts to designing systems. Today my work s
   </a>
 </p>
 
-<p>
-  <sub>Reach out for anything related to <strong>software architecture</strong>, <strong>applied AI</strong> or <strong>backend engineering</strong>.</sub>
-</p>
-
 </div>
-
----
 
 <!-- ================================================================
      9. FOOTER
@@ -487,10 +408,8 @@ That question took me from writing scripts to designing systems. Today my work s
 
 <h3>Building intelligent solutions. Designing scalable systems. Creating impact through technology.</h3>
 
-<br/>
-
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:1f6feb,45:0d1117,100:0d1117&section=footer&text=Thanks%20for%20stopping%20by&fontSize=18&fontColor=8b949e&fontAlignY=72"
+  src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:1f6feb,45:0d1117,100:0d1117&section=footer&text=Thanks%20for%20stopping%20by&fontSize=18&fontColor=8b949e&fontAlignY=72&animation=fadeIn"
   alt=""
   width="100%"
 />
