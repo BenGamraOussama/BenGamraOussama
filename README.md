@@ -3,11 +3,11 @@
   GITHUB PROFILE README — Oussama Ben Gamra
   ---------------------------------------------------------------
   HOW TO CUSTOMIZE
-  1. Replace every occurrence of:  GITHUB_USERNAME
+  1. Replace every occurrence of:  BenGamraOussama
      with your real GitHub username (e.g. oussama-bengamra)
-  2. Replace every occurrence of:  LINKEDIN_HANDLE
+  2. Replace every occurrence of:  oussama-ben-gamra
      with your LinkedIn slug (e.g. oussama-ben-gamra)
-  3. Replace every occurrence of:  YOUR_EMAIL
+  3. Replace every occurrence of:  oussama.bengamra@esprit.tn
      with your email address
   4. For each project, replace:  PROJECT_REPO_1 ... PROJECT_REPO_5
      with the repository path (e.g. oussama-bengamra/unidrive)
