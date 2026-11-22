@@ -32,7 +32,7 @@
 <br/>
 
 <h3>
-  <a href="https://github.com/GITHUB_USERNAME">
+  <a href="https://github.com/BenGamraOussama">
     <img
       src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=22D3EE&center=true&vCenter=true&width=640&height=45&lines=Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Backend+Developer;Aspiring+Software+Architect"
       alt="Software Engineer · AI &amp; Machine Learning Enthusiast · Backend Developer · Aspiring Software Architect"
@@ -47,15 +47,15 @@
 
 <!-- SOCIAL LINKS -->
 <p>
-  <a href="https://linkedin.com/in/LINKEDIN_HANDLE">
+  <a href="https://linkedin.com/in/oussama-ben-gamra">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://github.com/GITHUB_USERNAME">
+  <a href="https://github.com/BenGamraOussama">
     <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:oussama.bengamra@esprit.tn">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -241,20 +241,20 @@ That question took me from writing scripts to designing systems. Today my work s
 <div align="center">
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GITHUB_USERNAME&theme=github_dark"
-  alt="GitHub profile summary for GITHUB_USERNAME"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BenGamraOussama&theme=github_dark"
+  alt="GitHub profile summary for BenGamraOussama"
   width="100%"
 />
 
 <br/><br/>
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=22d3ee&icon_color=8b5cf6&text_color=c9d1d9&ring_color=1f6feb"
+  src="https://github-readme-stats.vercel.app/api?username=BenGamraOussama&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=22d3ee&icon_color=8b5cf6&text_color=c9d1d9&ring_color=1f6feb"
   alt="GitHub contribution statistics"
   height="165"
 />
 <img
-  src="https://streak-stats.demolab.com/?user=GITHUB_USERNAME&hide_border=true&background=0d1117&stroke=1f6feb&ring=8b5cf6&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff"
+  src="https://streak-stats.demolab.com/?user=BenGamraOussama&hide_border=true&background=0d1117&stroke=1f6feb&ring=8b5cf6&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff"
   alt="GitHub contribution streak"
   height="165"
 />
@@ -262,12 +262,12 @@ That question took me from writing scripts to designing systems. Today my work s
 <br/><br/>
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=compact&hide_border=true&langs_count=10&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenGamraOussama&layout=compact&hide_border=true&langs_count=10&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9"
   alt="Most used programming languages"
   height="165"
 />
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GITHUB_USERNAME&theme=github_dark&utcOffset=1"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BenGamraOussama&theme=github_dark&utcOffset=1"
   alt="Productive time of day"
   height="165"
 />
@@ -275,7 +275,7 @@ That question took me from writing scripts to designing systems. Today my work s
 <br/><br/>
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=GITHUB_USERNAME&bg_color=0d1117&color=22d3ee&line=8b5cf6&point=ffffff&area_color=1f6feb&area=true&hide_border=true&custom_title=Contribution%20Activity"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=BenGamraOussama&bg_color=0d1117&color=22d3ee&line=8b5cf6&point=ffffff&area_color=1f6feb&area=true&hide_border=true&custom_title=Contribution%20Activity"
   alt="GitHub contribution activity graph"
   width="100%"
 />
@@ -361,15 +361,15 @@ That question took me from writing scripts to designing systems. Today my work s
 <p>Open to internships, research collaborations, and engineering conversations about architecture, AI or backend systems.</p>
 
 <p>
-  <a href="https://linkedin.com/in/LINKEDIN_HANDLE">
+  <a href="https://linkedin.com/in/oussama-ben-gamra">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://github.com/GITHUB_USERNAME">
+  <a href="https://github.com/BenGamraOussama">
     <img src="https://img.shields.io/badge/Follow%20on%20GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:oussama.bengamra@esprit.tn">
     <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
   </a>
 </p>
